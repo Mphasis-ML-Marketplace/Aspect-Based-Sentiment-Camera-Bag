@@ -1,0 +1,11 @@
+{"review": "The bag is small but have a lot of pockets. has a waist strap that is helpful. however, it looks ugly.",
+ "topics": [{"sentence": "bag small lot pocket",
+   "aspect": {"size": 0.5596356362021438},
+   "sentiment": {"size": "neutral"}},
+  {"sentence": "waist strap helpful",
+   "aspect": {"ergonomics": 0.6652980048381906,
+    "purchase": 0.33451878856247025},
+   "sentiment": {"ergonomics": "positive", "purchase": "positive"}},
+  {"sentence": "look ugly",
+   "aspect": {"asthetics": 0.7161321150811193},
+   "sentiment": {"asthetics": "negative"}}]}
